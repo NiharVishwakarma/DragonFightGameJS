@@ -1,3 +1,4 @@
+// This is a Game developed on Js.
 let xp = 0,
   health = 100,
   gold = 50,
